@@ -1,0 +1,43 @@
+name: Update winter feed
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/update-feed.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: winter-feed
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test filtering
+        run: python -m unittest discover -s tests -v
+      - name: Download and filter current source
+        run: python scripts/build_feed.py
+      - name: Publish updated XML
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add feed_winter.xml
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update winter Linglong feed'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
