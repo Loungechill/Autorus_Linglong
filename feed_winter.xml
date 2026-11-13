@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12T05:20:00+03:00">
+<yml_catalog date="2026-11-13T05:20:00+03:00">
 <shop>
 <url>https://www.autorus.ru</url>
 <name>АВТОРУСЬ</name>
@@ -85,15 +85,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033165LINGLONG" available="true">
-<name>Шина R16 205/55 LING LONG Green-Max Winter Grip 2 94T XL шип 221033165</name>
-<url>https://www.autorus.ru/product/00-03757199?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142572</url>
-<price>7840</price>
+<offer id="221033179LINGLONG" available="true">
+<name>Шина R18 225/45 LING LONG Green-Max Winter Grip 2 95T XL шип 221033179</name>
+<url>https://www.autorus.ru/product/00-03757210?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142583</url>
+<price>10199</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033165</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/df/51/3c/df513c41-42ca-4106-9f3f-26c4f5f6d913.png</picture>
+<vendorCode>221033179</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/de/7f/0d/de7f0d5b-da4d-495a-9425-33273f2443d4.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -113,15 +113,29 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033179LINGLONG" available="true">
-<name>Шина R18 225/45 LING LONG Green-Max Winter Grip 2 95T XL шип 221033179</name>
-<url>https://www.autorus.ru/product/00-03757210?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142583</url>
-<price>10199</price>
+<offer id="221033165LINGLONG" available="true">
+<name>Шина R16 205/55 LING LONG Green-Max Winter Grip 2 94T XL шип 221033165</name>
+<url>https://www.autorus.ru/product/00-03757199?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142572</url>
+<price>7840</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033179</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/de/7f/0d/de7f0d5b-da4d-495a-9425-33273f2443d4.png</picture>
+<vendorCode>221033165</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/df/51/3c/df513c41-42ca-4106-9f3f-26c4f5f6d913.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013424LINGLONG" available="true">
+<name>Шина R20 255/55 LING LONG GREEN-Max Winter Ice I-15 SUV 110T XL зима 221013424</name>
+<url>https://www.autorus.ru/product/00-02770089?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019578</url>
+<price>12474</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013424</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/01/39/24/013924ed-cf47-4a4b-a9aa-48cc43f650fe.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -150,20 +164,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013423</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/4c/be/79/4cbe799b-642e-4b49-a6b6-1c1575aef8d4.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221013424LINGLONG" available="true">
-<name>Шина R20 255/55 LING LONG GREEN-Max Winter Ice I-15 SUV 110T XL зима 221013424</name>
-<url>https://www.autorus.ru/product/00-02770089?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019578</url>
-<price>12474</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013424</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/01/39/24/013924ed-cf47-4a4b-a9aa-48cc43f650fe.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -267,20 +267,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221036192LINGLONG" available="true">
-<name>Шина R18 225/60 LING LONG Green-Max Winter Grip 2 104T XL шип 221036192</name>
-<url>https://www.autorus.ru/product/00-04218847?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774233</url>
-<price>14522</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221036192</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/79/00/23/790023d7-c348-46b3-bdda-51d15a70c1c0.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221036195LINGLONG" available="true">
 <name>Шина R19 225/55 LING LONG Green-Max Winter Grip 2 103T XL шип 221036195</name>
 <url>https://www.autorus.ru/product/00-04218850?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774236</url>
@@ -337,76 +323,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013476LINGLONG" available="true">
-<name>Шина R20 285/50 LING LONG GREEN-Max Winter Ice I-15 SUV 112T зима 221013476</name>
-<url>https://www.autorus.ru/product/00-01579231?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906271</url>
-<price>14215</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013476</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/50/08/0b/50080b31-998a-4ca8-a4c3-3b0511e48faf.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221013418LINGLONG" available="true">
-<name>Шина R16 215/65 LING LONG GREEN-Max Winter Ice I-15 SUV 98T зима 221013418</name>
-<url>https://www.autorus.ru/product/00-02695832?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019550</url>
-<price>6789</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013418</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/1e/8b/14/1e8b14f9-e188-4323-a6c3-aea905edaddd.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221033173LINGLONG" available="true">
-<name>Шина R16 215/65 LING LONG Green-Max Winter Grip 2 98T шип 221033173</name>
-<url>https://www.autorus.ru/product/00-03757205?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142578</url>
-<price>9218</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033173</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/50/51/c4/5051c48b-5251-4d9b-9edc-4703555a408a.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221033180LINGLONG" available="true">
-<name>Шина R17 225/50 LING LONG Green-Max Winter Grip 2 98T XL шип 221033180</name>
-<url>https://www.autorus.ru/product/00-03757211?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142584</url>
-<price>9209</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033180</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/bf/da/78/bfda78d0-6886-45a6-a151-a113f2a30f22.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221033188LINGLONG" available="true">
-<name>Шина R18 235/60 LING LONG Green-Max Winter Grip 2 107T XL шип 221033188</name>
-<url>https://www.autorus.ru/product/00-03443918?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784766</url>
-<price>11713</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033188</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/ac/16/37/ac163723-ce01-40e3-ae98-d536f086c1ba.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221013409LINGLONG" available="true">
 <name>Шина R20 255/45 LING LONG GREEN-Max Winter Ice I-15 SUV 101T зима 221013409</name>
 <url>https://www.autorus.ru/product/00-02770087?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019576</url>
@@ -416,20 +332,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013409</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/04/c4/05/04c405ae-b9fa-42d9-9f82-e7d54d154aa0.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221013459LINGLONG" available="true">
-<name>Шина R18 235/65 LING LONG GREEN-Max Winter Ice I-15 SUV 106T зима 221013459</name>
-<url>https://www.autorus.ru/product/00-02569428?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=999053</url>
-<price>10324</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013459</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/7b/83/21/7b832152-a061-48bb-b694-298f6117b867.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -449,29 +351,99 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221003602LINGLONG" available="true">
-<name>Шина R18 225/55 LING LONG Green-Max Winter Grip SUV 98T шип 221003602</name>
-<url>https://www.autorus.ru/product/00-02770002?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019630</url>
-<price>10986</price>
+<offer id="221013476LINGLONG" available="true">
+<name>Шина R20 285/50 LING LONG GREEN-Max Winter Ice I-15 SUV 112T зима 221013476</name>
+<url>https://www.autorus.ru/product/00-01579231?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906271</url>
+<price>14215</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221003602</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/78/ad/97/78ad9785-1b86-4737-bc45-c831bf8f0004.jpeg</picture>
+<vendorCode>221013476</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/50/08/0b/50080b31-998a-4ca8-a4c3-3b0511e48faf.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033164LINGLONG" available="true">
-<name>Шина R17 205/50 LING LONG Green-Max Winter Grip 2 93T XL шип 221033164</name>
-<url>https://www.autorus.ru/product/00-03443888?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784760</url>
-<price>8139</price>
+<offer id="221033173LINGLONG" available="true">
+<name>Шина R16 215/65 LING LONG Green-Max Winter Grip 2 98T шип 221033173</name>
+<url>https://www.autorus.ru/product/00-03757205?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142578</url>
+<price>9218</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033164</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/f6/e9/a5/f6e9a57c-b7f5-4baf-9b6a-f0ac82cd3be2.png</picture>
+<vendorCode>221033173</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/50/51/c4/5051c48b-5251-4d9b-9edc-4703555a408a.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221036192LINGLONG" available="true">
+<name>Шина R18 225/60 LING LONG Green-Max Winter Grip 2 104T XL шип 221036192</name>
+<url>https://www.autorus.ru/product/00-04218847?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774233</url>
+<price>14522</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221036192</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/79/00/23/790023d7-c348-46b3-bdda-51d15a70c1c0.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013459LINGLONG" available="true">
+<name>Шина R18 235/65 LING LONG GREEN-Max Winter Ice I-15 SUV 106T зима 221013459</name>
+<url>https://www.autorus.ru/product/00-02569428?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=999053</url>
+<price>10324</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013459</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/7b/83/21/7b832152-a061-48bb-b694-298f6117b867.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013418LINGLONG" available="true">
+<name>Шина R16 215/65 LING LONG GREEN-Max Winter Ice I-15 SUV 98T зима 221013418</name>
+<url>https://www.autorus.ru/product/00-02695832?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019550</url>
+<price>6789</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013418</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/1e/8b/14/1e8b14f9-e188-4323-a6c3-aea905edaddd.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221033188LINGLONG" available="true">
+<name>Шина R18 235/60 LING LONG Green-Max Winter Grip 2 107T XL шип 221033188</name>
+<url>https://www.autorus.ru/product/00-03443918?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784766</url>
+<price>11713</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033188</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/ac/16/37/ac163723-ce01-40e3-ae98-d536f086c1ba.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221033180LINGLONG" available="true">
+<name>Шина R17 225/50 LING LONG Green-Max Winter Grip 2 98T XL шип 221033180</name>
+<url>https://www.autorus.ru/product/00-03757211?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142584</url>
+<price>9209</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033180</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/bf/da/78/bfda78d0-6886-45a6-a151-a113f2a30f22.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -486,6 +458,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221006874</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/d0/6a/c2/d06ac27a-1a73-4f72-86b1-bb504b6113ae.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221033164LINGLONG" available="true">
+<name>Шина R17 205/50 LING LONG Green-Max Winter Grip 2 93T XL шип 221033164</name>
+<url>https://www.autorus.ru/product/00-03443888?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784760</url>
+<price>8139</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033164</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/f6/e9/a5/f6e9a57c-b7f5-4baf-9b6a-f0ac82cd3be2.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -533,29 +519,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013413LINGLONG" available="true">
-<name>Шина R16 235/70 LING LONG GREEN-Max Winter Ice I-15 SUV 106T зима 221013413</name>
-<url>https://www.autorus.ru/product/00-02095282?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=885638</url>
-<price>8825</price>
+<offer id="221008049LINGLONG" available="true">
+<name>Шина R19 235/55 LING LONG GREEN-Max Winter Ice I-15 SUV 105H XL зима 221008049</name>
+<url>https://www.autorus.ru/product/00-01588437?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=973793</url>
+<price>9637</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221013413</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/5f/a8/11/5fa811c1-b39e-4e76-b623-9bc48940b0a0.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221013408LINGLONG" available="true">
-<name>Шина R19 255/55 LING LONG GREEN-Max Winter Ice I-15 SUV 107T зима 221013408</name>
-<url>https://www.autorus.ru/product/00-01578583?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906279</url>
-<price>11371</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013408</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/36/f0/10/36f010a7-ae7e-4187-9c85-c18342d1ae96.jpeg</picture>
+<vendorCode>221008049</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/6c/9d/5b/6c9d5b82-a2de-4551-9a85-33aec78a66b2.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -575,6 +547,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221033419LINGLONG" available="true">
+<name>Шина R15C 225/70 LING LONG GREEN-Max Winter Grip VAN 2 112/110R шип 221033419</name>
+<url>https://www.autorus.ru/product/00-03443984?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784780</url>
+<price>10021</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033419</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/5a/a0/e6/5aa0e6a5-e9c1-4f6d-94e9-58279e1c68e3.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221007590LINGLONG" available="true">
 <name>Шина R17 235/65 LING LONG GREEN-Max Winter Ice I-15 SUV 108T XL зима 221007590</name>
 <url>https://www.autorus.ru/product/00-02201481?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906303</url>
@@ -589,20 +575,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221008049LINGLONG" available="true">
-<name>Шина R19 235/55 LING LONG GREEN-Max Winter Ice I-15 SUV 105H XL зима 221008049</name>
-<url>https://www.autorus.ru/product/00-01588437?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=973793</url>
-<price>9637</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221008049</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/6c/9d/5b/6c9d5b82-a2de-4551-9a85-33aec78a66b2.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221011484LINGLONG" available="true">
 <name>Шина R17 235/65 LING LONG Green-Max Winter Grip SUV 108T XL шип 221011484</name>
 <url>https://www.autorus.ru/product/00-02770084?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019642</url>
@@ -612,6 +584,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221011484</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/80/57/e9/8057e9fe-9bff-45c8-bf12-ddc46eb3e09d.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013413LINGLONG" available="true">
+<name>Шина R16 235/70 LING LONG GREEN-Max Winter Ice I-15 SUV 106T зима 221013413</name>
+<url>https://www.autorus.ru/product/00-02095282?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=885638</url>
+<price>8825</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013413</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/5f/a8/11/5fa811c1-b39e-4e76-b623-9bc48940b0a0.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -645,20 +631,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013410LINGLONG" available="true">
-<name>Шина R20 275/55 LING LONG GREEN-Max Winter Ice I-15 SUV 113T зима 221013410</name>
-<url>https://www.autorus.ru/product/00-02201542?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906314</url>
-<price>14921</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013410</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/f7/b7/13/f7b7133a-3dd6-4ff4-9a89-ce19ee3a4cd0.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221013393LINGLONG" available="true">
 <name>Шина R17 245/65 LING LONG GREEN-Max Winter Ice I-15 SUV 107T зима 221013393</name>
 <url>https://www.autorus.ru/product/00-02695805?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019544</url>
@@ -673,15 +645,29 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013425LINGLONG" available="true">
-<name>Шина R18 245/50 LING LONG GREEN-Max Winter Ice I-15 SUV 100T зима 221013425</name>
-<url>https://www.autorus.ru/product/00-02201550?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906319</url>
-<price>10644</price>
+<offer id="221003602LINGLONG" available="true">
+<name>Шина R18 225/55 LING LONG Green-Max Winter Grip SUV 98T шип 221003602</name>
+<url>https://www.autorus.ru/product/00-02770002?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019630</url>
+<price>10986</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221013425</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/e3/a7/fc/e3a7fc10-09fa-4588-9bd8-9417dbfbad75.jpeg</picture>
+<vendorCode>221003602</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/78/ad/97/78ad9785-1b86-4737-bc45-c831bf8f0004.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013408LINGLONG" available="true">
+<name>Шина R19 255/55 LING LONG GREEN-Max Winter Ice I-15 SUV 107T зима 221013408</name>
+<url>https://www.autorus.ru/product/00-01578583?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906279</url>
+<price>11371</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013408</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/36/f0/10/36f010a7-ae7e-4187-9c85-c18342d1ae96.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -701,34 +687,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013465LINGLONG" available="true">
-<name>Шина R19 245/45 LING LONG GREEN-Max Winter Ice I-15 SUV 98T зима 221013465</name>
-<url>https://www.autorus.ru/product/00-02695879?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019557</url>
-<price>10041</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013465</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/be/c9/c5/bec9c5b3-09ac-4fb4-9f54-43f788bf4634.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221033419LINGLONG" available="true">
-<name>Шина R15C 225/70 LING LONG GREEN-Max Winter Grip VAN 2 112/110R шип 221033419</name>
-<url>https://www.autorus.ru/product/00-03443984?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784780</url>
-<price>10021</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033419</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/5a/a0/e6/5aa0e6a5-e9c1-4f6d-94e9-58279e1c68e3.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221033159LINGLONG" available="true">
 <name>Шина R15 195/55 LING LONG Green-Max Winter Grip 2 89T XL шип 221033159</name>
 <url>https://www.autorus.ru/product/00-03757195?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142568</url>
@@ -743,6 +701,34 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221013410LINGLONG" available="true">
+<name>Шина R20 275/55 LING LONG GREEN-Max Winter Ice I-15 SUV 113T зима 221013410</name>
+<url>https://www.autorus.ru/product/00-02201542?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906314</url>
+<price>14921</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013410</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/f7/b7/13/f7b7133a-3dd6-4ff4-9a89-ce19ee3a4cd0.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013425LINGLONG" available="true">
+<name>Шина R18 245/50 LING LONG GREEN-Max Winter Ice I-15 SUV 100T зима 221013425</name>
+<url>https://www.autorus.ru/product/00-02201550?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906319</url>
+<price>10644</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013425</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/e3/a7/fc/e3a7fc10-09fa-4588-9bd8-9417dbfbad75.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221013415LINGLONG" available="true">
 <name>Шина R19 245/55 LING LONG GREEN-Max Winter Ice I-15 SUV 103T зима 221013415</name>
 <url>https://www.autorus.ru/product/00-02567645?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=975584</url>
@@ -752,20 +738,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013415</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/30/28/0e/30280ec4-a6b6-4b28-8424-bf035ecdf2ad.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221036206LINGLONG" available="true">
-<name>Шина R21 315/40 LING LONG Green-Max Winter Grip 2 115T XL шип 221036206</name>
-<url>https://www.autorus.ru/product/00-04218861?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774247</url>
-<price>19860</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221036206</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/e1/16/d9/e116d99c-5cfd-478f-808c-89a9e2f7d1ae.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -799,6 +771,34 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221036206LINGLONG" available="true">
+<name>Шина R21 315/40 LING LONG Green-Max Winter Grip 2 115T XL шип 221036206</name>
+<url>https://www.autorus.ru/product/00-04218861?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774247</url>
+<price>19860</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221036206</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/e1/16/d9/e116d99c-5cfd-478f-808c-89a9e2f7d1ae.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013422LINGLONG" available="true">
+<name>Шина R18 265/60 LING LONG GREEN-Max Winter Ice I-15 SUV 110T зима 221013422</name>
+<url>https://www.autorus.ru/product/00-01563634?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906267</url>
+<price>11325</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013422</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/ab/54/02/ab54029f-a479-4a68-beaf-b652f0758714.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221004366LINGLONG" available="true">
 <name>Шина R16C 225/65 LING LONG GREEN-Max Winter VAN 112/110R зима 221004366</name>
 <url>https://www.autorus.ru/product/00-02201478?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906301</url>
@@ -827,6 +827,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221015577LINGLONG" available="true">
+<name>Шина R20 245/45 LING LONG GREEN-Max Winter UHP 103H XL зима 221015577</name>
+<url>https://www.autorus.ru/product/00-02770101?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019589</url>
+<price>10406</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221015577</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/b1/b7/6f/b1b76fa8-5d70-42cb-8f00-94efabfe87d0.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221022923LINGLONG" available="true">
 <name>Шина R20 275/50 LING LONG GREEN-Max Winter Ice I-15 SUV 113S XL зима 221022923</name>
 <url>https://www.autorus.ru/product/00-02696001?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019564</url>
@@ -841,20 +855,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221007991LINGLONG" available="true">
-<name>Шина R17 205/50 LING LONG GREEN-Max Winter Ice I-15 93T XL зима 221007991</name>
-<url>https://www.autorus.ru/product/00-01542823?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906272</url>
-<price>6331</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221007991</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/82/13/cb/8213cbc7-3e4f-4a8f-8f40-e6fc6643d0c0.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221013426LINGLONG" available="true">
 <name>Шина R18 255/55 LING LONG GREEN-Max Winter Ice I-15 SUV 105T зима 221013426</name>
 <url>https://www.autorus.ru/product/00-02201551?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906320</url>
@@ -864,20 +864,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013426</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/9d/d8/b4/9dd8b4cb-9533-4975-81b4-0dcf30a98b6d.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221015577LINGLONG" available="true">
-<name>Шина R20 245/45 LING LONG GREEN-Max Winter UHP 103H XL зима 221015577</name>
-<url>https://www.autorus.ru/product/00-02770101?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019589</url>
-<price>10406</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221015577</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/b1/b7/6f/b1b76fa8-5d70-42cb-8f00-94efabfe87d0.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -911,20 +897,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033152LINGLONG" available="true">
-<name>Шина R14 165/65 LING LONG Green-Max Winter Grip 2 79T шип 221033152</name>
-<url>https://www.autorus.ru/product/00-03443873?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784757</url>
-<price>6185</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033152</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/b6/a3/d9/b6a3d9e2-450c-43e5-ba88-2bdba9a12523.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221033197LINGLONG" available="true">
 <name>Шина R18 245/50 LING LONG Green-Max Winter Grip 2 104T XL шип 221033197</name>
 <url>https://www.autorus.ru/product/00-03757219?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142592</url>
@@ -953,20 +925,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013422LINGLONG" available="true">
-<name>Шина R18 265/60 LING LONG GREEN-Max Winter Ice I-15 SUV 110T зима 221013422</name>
-<url>https://www.autorus.ru/product/00-01563634?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906267</url>
-<price>11325</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013422</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/ab/54/02/ab54029f-a479-4a68-beaf-b652f0758714.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221033412LINGLONG" available="true">
 <name>Шина R16C 205/65 LING LONG GREEN-Max Winter Grip VAN 2 107/105R шип 221033412</name>
 <url>https://www.autorus.ru/product/00-03757234?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142608</url>
@@ -976,6 +934,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221033412</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/7d/68/c6/7d68c6b1-a363-4948-b06b-cc6f5286a25f.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221007991LINGLONG" available="true">
+<name>Шина R17 205/50 LING LONG GREEN-Max Winter Ice I-15 93T XL зима 221007991</name>
+<url>https://www.autorus.ru/product/00-01542823?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906272</url>
+<price>6331</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221007991</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/82/13/cb/8213cbc7-3e4f-4a8f-8f40-e6fc6643d0c0.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -995,6 +967,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221013465LINGLONG" available="true">
+<name>Шина R19 245/45 LING LONG GREEN-Max Winter Ice I-15 SUV 98T зима 221013465</name>
+<url>https://www.autorus.ru/product/00-02695879?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019557</url>
+<price>10041</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013465</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/be/c9/c5/bec9c5b3-09ac-4fb4-9f54-43f788bf4634.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221035820LINGLONG" available="true">
 <name>Шина R22 275/50 LING LONG Nord Master 115S XL зима 221035820</name>
 <url>https://www.autorus.ru/product/00-04218839?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774225</url>
@@ -1009,20 +995,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221036200LINGLONG" available="true">
-<name>Шина R22 275/50 LING LONG Green-Max Winter Grip 2 115T XL шип 221036200</name>
-<url>https://www.autorus.ru/product/00-04218855?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774241</url>
-<price>22841</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221036200</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/5a/8f/80/5a8f80d4-66cb-4ee3-abee-d77c0dcb032c.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221013464LINGLONG" available="true">
 <name>Шина R21 295/40 LING LONG GREEN-Max Winter Ice I-15 SUV 107T зима 221013464</name>
 <url>https://www.autorus.ru/product/00-02553334?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=973694</url>
@@ -1032,20 +1004,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013464</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/7f/dd/f3/7fddf3e9-6404-4edb-a3cd-0814360bd3e2.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221030916LINGLONG" available="true">
-<name>Шина R18 235/45 LING LONG Nord Master 98T XL зима 221030916</name>
-<url>https://www.autorus.ru/product/00-02770180?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019612</url>
-<price>7834</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221030916</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/43/9a/ca/439aca53-831e-4418-8b61-ab2b61338411.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1079,6 +1037,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221036200LINGLONG" available="true">
+<name>Шина R22 275/50 LING LONG Green-Max Winter Grip 2 115T XL шип 221036200</name>
+<url>https://www.autorus.ru/product/00-04218855?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774241</url>
+<price>22841</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221036200</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/5a/8f/80/5a8f80d4-66cb-4ee3-abee-d77c0dcb032c.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221033178LINGLONG" available="true">
 <name>Шина R17 225/45 LING LONG Green-Max Winter Grip 2 94T XL шип 221033178</name>
 <url>https://www.autorus.ru/product/00-03757209?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142582</url>
@@ -1107,15 +1079,29 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221031754LINGLONG" available="true">
-<name>Шина R18 225/40 LING LONG Nord Master 92T XL зима 221031754</name>
-<url>https://www.autorus.ru/product/00-02770193?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019624</url>
-<price>7413</price>
+<offer id="221013471LINGLONG" available="true">
+<name>Шина R19 275/55 LING LONG GREEN-Max Winter Ice I-15 SUV 111T зима 221013471</name>
+<url>https://www.autorus.ru/product/00-02201555?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906322</url>
+<price>14650</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221031754</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/ab/75/4f/ab754f71-20c8-470d-8bde-a4176417c621.jpeg</picture>
+<vendorCode>221013471</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/1b/ba/4a/1bba4a43-a5af-41af-bf1c-e0027bb2b404.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221033152LINGLONG" available="true">
+<name>Шина R14 165/65 LING LONG Green-Max Winter Grip 2 79T шип 221033152</name>
+<url>https://www.autorus.ru/product/00-03443873?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784757</url>
+<price>6185</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033152</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/b6/a3/d9/b6a3d9e2-450c-43e5-ba88-2bdba9a12523.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1233,34 +1219,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033413LINGLONG" available="true">
-<name>Шина R16C 205/75 LING LONG GREEN-Max Winter Grip VAN 2 110/108R шип 221033413</name>
-<url>https://www.autorus.ru/product/00-03757235?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142609</url>
-<price>9670</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033413</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/d6/f2/25/d6f225b5-48c7-4b81-9a97-0ceb964fb4f1.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221013471LINGLONG" available="true">
-<name>Шина R19 275/55 LING LONG GREEN-Max Winter Ice I-15 SUV 111T зима 221013471</name>
-<url>https://www.autorus.ru/product/00-02201555?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906322</url>
-<price>14650</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013471</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/1b/ba/4a/1bba4a43-a5af-41af-bf1c-e0027bb2b404.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221033202LINGLONG" available="true">
 <name>Шина R19 255/45 LING LONG Green-Max Winter Grip 2 104T XL шип 221033202</name>
 <url>https://www.autorus.ru/product/00-03757223?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142597</url>
@@ -1270,6 +1228,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221033202</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/54/cc/81/54cc81b8-68cb-4ade-8d67-7da66f2b4d71.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221008052LINGLONG" available="true">
+<name>Шина R18 255/60 LING LONG GREEN-Max Winter Ice I-15 SUV 112H XL зима 221008052</name>
+<url>https://www.autorus.ru/product/00-01577217?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906270</url>
+<price>10870</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221008052</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/a5/1b/fe/a51bfe26-0753-49c3-84b1-048ec6271355.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1289,6 +1261,34 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221030916LINGLONG" available="true">
+<name>Шина R18 235/45 LING LONG Nord Master 98T XL зима 221030916</name>
+<url>https://www.autorus.ru/product/00-02770180?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019612</url>
+<price>7834</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221030916</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/43/9a/ca/439aca53-831e-4418-8b61-ab2b61338411.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221031754LINGLONG" available="true">
+<name>Шина R18 225/40 LING LONG Nord Master 92T XL зима 221031754</name>
+<url>https://www.autorus.ru/product/00-02770193?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019624</url>
+<price>7413</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221031754</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/ab/75/4f/ab754f71-20c8-470d-8bde-a4176417c621.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221017959LINGLONG" available="true">
 <name>Шина R19 285/45 LING LONG GREEN-Max Winter Ice I-15 SUV 107T зима 221017959</name>
 <url>https://www.autorus.ru/product/00-02201629?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906344</url>
@@ -1303,20 +1303,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221030915LINGLONG" available="true">
-<name>Шина R19 225/45 LING LONG Nord Master 96T XL зима 221030915</name>
-<url>https://www.autorus.ru/product/00-02770179?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019611</url>
-<price>9493</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221030915</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/c8/5c/85/c85c857d-483e-47fb-991d-7ce455628280.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221003601LINGLONG" available="true">
 <name>Шина R18 255/55 LING LONG Green-Max Winter Grip SUV 109T XL шип 221003601</name>
 <url>https://www.autorus.ru/product/00-02770076?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019636</url>
@@ -1326,20 +1312,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221003601</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/22/7f/d6/227fd601-de33-4cfc-b04a-105cc2d8de79.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221022925LINGLONG" available="true">
-<name>Шина R22 265/40 LING LONG GREEN-Max Winter Ice I-15 SUV 106S зима 221022925</name>
-<url>https://www.autorus.ru/product/00-02487541?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=964915</url>
-<price>12201</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221022925</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/aa/df/47/aadf47a1-3c88-4dcb-a613-24168c9952f9.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1401,20 +1373,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221008052LINGLONG" available="true">
-<name>Шина R18 255/60 LING LONG GREEN-Max Winter Ice I-15 SUV 112H XL зима 221008052</name>
-<url>https://www.autorus.ru/product/00-01577217?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906270</url>
-<price>10870</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221008052</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/a5/1b/fe/a51bfe26-0753-49c3-84b1-048ec6271355.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221003598LINGLONG" available="true">
 <name>Шина R16 215/55 LING LONG GREEN-Max Winter Grip 97T шип 221003598</name>
 <url>https://www.autorus.ru/product/00-02201463?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906381</url>
@@ -1471,29 +1429,29 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033415LINGLONG" available="true">
-<name>Шина R16C 215/65 LING LONG GREEN-Max Winter Grip VAN 2 109/107R шип 221033415</name>
-<url>https://www.autorus.ru/product/00-03757237?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142611</url>
-<price>9857</price>
+<offer id="221030915LINGLONG" available="true">
+<name>Шина R19 225/45 LING LONG Nord Master 96T XL зима 221030915</name>
+<url>https://www.autorus.ru/product/00-02770179?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019611</url>
+<price>9493</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033415</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/4a/09/8a/4a098aa4-ecae-44d0-a9ad-1eeceabf1f44.jpeg</picture>
+<vendorCode>221030915</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/c8/5c/85/c85c857d-483e-47fb-991d-7ce455628280.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013407LINGLONG" available="true">
-<name>Шина R19 255/40 LING LONG GREEN-Max Winter Ice I-15 SUV 96T зима 221013407</name>
-<url>https://www.autorus.ru/product/00-02695817?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019547</url>
-<price>10152</price>
+<offer id="221022925LINGLONG" available="true">
+<name>Шина R22 265/40 LING LONG GREEN-Max Winter Ice I-15 SUV 106S зима 221022925</name>
+<url>https://www.autorus.ru/product/00-02487541?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=964915</url>
+<price>12201</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221013407</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/f5/99/ac/f599ac5e-4ff0-429b-8661-b547d5488370.jpeg</picture>
+<vendorCode>221022925</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/aa/df/47/aadf47a1-3c88-4dcb-a613-24168c9952f9.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1508,20 +1466,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013479</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/c7/41/37/c74137aa-c435-4d76-98f6-535585d534d5.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221035821LINGLONG" available="true">
-<name>Шина R22 275/40 LING LONG Nord Master 107S XL зима 221035821</name>
-<url>https://www.autorus.ru/product/00-04218840?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774226</url>
-<price>14037</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221035821</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/ce/71/4a/ce714a4a-d5fa-43ae-856d-e0c35b4aada3.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1550,6 +1494,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013473</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/a8/23/66/a8236644-0d14-4d0b-b679-a2f8b770abce.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221033413LINGLONG" available="true">
+<name>Шина R16C 205/75 LING LONG GREEN-Max Winter Grip VAN 2 110/108R шип 221033413</name>
+<url>https://www.autorus.ru/product/00-03757235?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142609</url>
+<price>9670</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033413</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/d6/f2/25/d6f225b5-48c7-4b81-9a97-0ceb964fb4f1.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1667,6 +1625,34 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221013407LINGLONG" available="true">
+<name>Шина R19 255/40 LING LONG GREEN-Max Winter Ice I-15 SUV 96T зима 221013407</name>
+<url>https://www.autorus.ru/product/00-02695817?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019547</url>
+<price>10152</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013407</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/f5/99/ac/f599ac5e-4ff0-429b-8661-b547d5488370.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013406LINGLONG" available="true">
+<name>Шина R17 235/55 LING LONG GREEN-Max Winter Ice I-15 SUV 99T зима 221013406</name>
+<url>https://www.autorus.ru/product/00-02770086?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019575</url>
+<price>8120</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013406</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/0f/e0/1b/0fe01b40-8e8b-4525-9185-767bc1f22da3.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221033186LINGLONG" available="true">
 <name>Шина R18 235/50 LING LONG Green-Max Winter Grip 2 101T XL шип 221033186</name>
 <url>https://www.autorus.ru/product/00-03443913?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784765</url>
@@ -1676,6 +1662,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221033186</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/8f/67/c2/8f67c200-ed7a-4338-90ef-b1643681c861.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221035821LINGLONG" available="true">
+<name>Шина R22 275/40 LING LONG Nord Master 107S XL зима 221035821</name>
+<url>https://www.autorus.ru/product/00-04218840?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3774226</url>
+<price>14037</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221035821</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/ce/71/4a/ce714a4a-d5fa-43ae-856d-e0c35b4aada3.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1695,29 +1695,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033410LINGLONG" available="true">
-<name>Шина R15C 195/70 LING LONG GREEN-Max Winter Grip VAN 2 104/102R шип 221033410</name>
-<url>https://www.autorus.ru/product/00-03443974?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784778</url>
-<price>8195</price>
+<offer id="221033415LINGLONG" available="true">
+<name>Шина R16C 215/65 LING LONG GREEN-Max Winter Grip VAN 2 109/107R шип 221033415</name>
+<url>https://www.autorus.ru/product/00-03757237?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142611</url>
+<price>9857</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033410</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/4b/be/a6/4bbea667-f8df-47e2-86e4-6354cf4694af.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221012587LINGLONG" available="true">
-<name>Шина R19 255/35 LingLong GREEN-Max Winter UHP 96V XL зима 221012587</name>
-<url>https://www.autorus.ru/product/00-01574066?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=826769</url>
-<price>9571</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221012587</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/e1/f7/ac/e1f7aca1-fb48-4c16-a720-add365029304.jpeg</picture>
+<vendorCode>221033415</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/4a/09/8a/4a098aa4-ecae-44d0-a9ad-1eeceabf1f44.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1732,6 +1718,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221004034</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/df/0b/32/df0b325c-3c26-405c-947e-b1f9b18e8d56.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221013399LINGLONG" available="true">
+<name>Шина R17 275/65 LING LONG GREEN-Max Winter Ice I-15 SUV 115T зима 221013399</name>
+<url>https://www.autorus.ru/product/00-02695814?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019546</url>
+<price>13078</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013399</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/0e/6d/9b/0e6d9b94-58a9-4095-ab67-a556f22520ac.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1779,15 +1779,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221030918LINGLONG" available="true">
-<name>Шина R19 245/40 LING LONG Nord Master 98T XL зима 221030918</name>
-<url>https://www.autorus.ru/product/00-02770182?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019614</url>
-<price>9911</price>
+<offer id="221004388LINGLONG" available="true">
+<name>Шина R16C 235/65 LING LONG GREEN-Max Winter VAN 121/119R зима 221004388</name>
+<url>https://www.autorus.ru/product/00-02695545?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019542</url>
+<price>9313</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221030918</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/0f/03/85/0f03850c-b9a6-47e3-90a5-de1d9a880a2a.jpeg</picture>
+<vendorCode>221004388</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/24/4c/bc/244cbc2c-8099-4c10-a943-a7a183fb6a02.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1821,15 +1821,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221007993LINGLONG" available="true">
-<name>Шина R16 195/55 LING LONG GREEN-Max Winter Ice I-15 91T XL зима 221007993</name>
-<url>https://www.autorus.ru/product/00-01573562?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906264</url>
-<price>5420</price>
+<offer id="221033170LINGLONG" available="true">
+<name>Шина R17 215/55 LING LONG Green-Max Winter Grip 2 98T XL шип 221033170</name>
+<url>https://www.autorus.ru/product/00-03757204?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142577</url>
+<price>9345</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221007993</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/40/e2/ae/40e2ae34-9cbe-49ce-af3d-5ec8b374bf4c.jpeg</picture>
+<vendorCode>221033170</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/47/d4/44/47d444a2-bd34-4dc0-945b-419a3716a77b.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1863,71 +1863,57 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013399LINGLONG" available="true">
-<name>Шина R17 275/65 LING LONG GREEN-Max Winter Ice I-15 SUV 115T зима 221013399</name>
-<url>https://www.autorus.ru/product/00-02695814?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019546</url>
-<price>13078</price>
+<offer id="221033204LINGLONG" available="true">
+<name>Шина R19 255/55 LING LONG Green-Max Winter Grip 2 111T XL шип 221033204</name>
+<url>https://www.autorus.ru/product/00-03443955?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784774</url>
+<price>14053</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221013399</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/0e/6d/9b/0e6d9b94-58a9-4095-ab67-a556f22520ac.jpeg</picture>
+<vendorCode>221033204</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/5e/00/7c/5e007cea-1ae2-434f-8cc3-e523de3b27f1.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221013406LINGLONG" available="true">
-<name>Шина R17 235/55 LING LONG GREEN-Max Winter Ice I-15 SUV 99T зима 221013406</name>
-<url>https://www.autorus.ru/product/00-02770086?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019575</url>
-<price>8120</price>
+<offer id="221033410LINGLONG" available="true">
+<name>Шина R15C 195/70 LING LONG GREEN-Max Winter Grip VAN 2 104/102R шип 221033410</name>
+<url>https://www.autorus.ru/product/00-03443974?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784778</url>
+<price>8195</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221013406</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/0f/e0/1b/0fe01b40-8e8b-4525-9185-767bc1f22da3.jpeg</picture>
+<vendorCode>221033410</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/4b/be/a6/4bbea667-f8df-47e2-86e4-6354cf4694af.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221004388LINGLONG" available="true">
-<name>Шина R16C 235/65 LING LONG GREEN-Max Winter VAN 121/119R зима 221004388</name>
-<url>https://www.autorus.ru/product/00-02695545?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019542</url>
-<price>9313</price>
+<offer id="221012587LINGLONG" available="true">
+<name>Шина R19 255/35 LingLong GREEN-Max Winter UHP 96V XL зима 221012587</name>
+<url>https://www.autorus.ru/product/00-01574066?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=826769</url>
+<price>9571</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221004388</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/24/4c/bc/244cbc2c-8099-4c10-a943-a7a183fb6a02.jpeg</picture>
+<vendorCode>221012587</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/e1/f7/ac/e1f7aca1-fb48-4c16-a720-add365029304.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221015578LINGLONG" available="true">
-<name>Шина R20 275/45 LING LONG GREEN-Max Winter UHP 110H XL зима 221015578</name>
-<url>https://www.autorus.ru/product/00-02695918?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019563</url>
-<price>13036</price>
+<offer id="221015561LINGLONG" available="true">
+<name>Шина R17 235/45 LING LONG GREEN-Max Winter UHP 97H XL зима 221015561</name>
+<url>https://www.autorus.ru/product/00-02695913?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019562</url>
+<price>8703</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221015578</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/15/9f/a9/159fa965-015d-4877-b523-d4c8d94bb19e.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221030922LINGLONG" available="true">
-<name>Шина R20 235/35 LING LONG Nord Master 92T XL зима 221030922</name>
-<url>https://www.autorus.ru/product/00-02770186?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019618</url>
-<price>10639</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221030922</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/f4/e0/db/f4e0dbef-9b65-4b96-9719-92ca1277ae26.jpeg</picture>
+<vendorCode>221015561</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/74/b1/49/74b149bc-f2e0-433d-9227-b88a8e1b2e47.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1947,15 +1933,57 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221003582LINGLONG" available="true">
-<name>Шина R13 155/70 LING LONG GREEN-Max Winter Grip 75T шип 221003582</name>
-<url>https://www.autorus.ru/product/00-02158151?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=898298</url>
-<price>4375</price>
+<offer id="221007993LINGLONG" available="true">
+<name>Шина R16 195/55 LING LONG GREEN-Max Winter Ice I-15 91T XL зима 221007993</name>
+<url>https://www.autorus.ru/product/00-01573562?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906264</url>
+<price>5420</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221003582</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/31/9f/e7/319fe7cd-ba89-45d4-9064-e42b3a260f5a.jpeg</picture>
+<vendorCode>221007993</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/40/e2/ae/40e2ae34-9cbe-49ce-af3d-5ec8b374bf4c.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221015578LINGLONG" available="true">
+<name>Шина R20 275/45 LING LONG GREEN-Max Winter UHP 110H XL зима 221015578</name>
+<url>https://www.autorus.ru/product/00-02695918?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019563</url>
+<price>13036</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221015578</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/15/9f/a9/159fa965-015d-4877-b523-d4c8d94bb19e.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221030918LINGLONG" available="true">
+<name>Шина R19 245/40 LING LONG Nord Master 98T XL зима 221030918</name>
+<url>https://www.autorus.ru/product/00-02770182?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019614</url>
+<price>9911</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221030918</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/0f/03/85/0f03850c-b9a6-47e3-90a5-de1d9a880a2a.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221030922LINGLONG" available="true">
+<name>Шина R20 235/35 LING LONG Nord Master 92T XL зима 221030922</name>
+<url>https://www.autorus.ru/product/00-02770186?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019618</url>
+<price>10639</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221030922</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/f4/e0/db/f4e0dbef-9b65-4b96-9719-92ca1277ae26.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -1975,29 +2003,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221030924LINGLONG" available="true">
-<name>Шина R18 255/35 LING LONG Nord Master 94T XL зима 221030924</name>
-<url>https://www.autorus.ru/product/00-02770188?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019620</url>
-<price>8962</price>
+<offer id="221013470LINGLONG" available="true">
+<name>Шина R20 275/40 LING LONG GREEN-Max Winter Ice I-15 SUV 102T зима 221013470</name>
+<url>https://www.autorus.ru/product/00-02695887?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019559</url>
+<price>11439</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221030924</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/87/74/c4/8774c43f-b2ed-4f81-8f76-87bbb604e97b.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221033204LINGLONG" available="true">
-<name>Шина R19 255/55 LING LONG Green-Max Winter Grip 2 111T XL шип 221033204</name>
-<url>https://www.autorus.ru/product/00-03443955?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784774</url>
-<price>14053</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033204</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/5e/00/7c/5e007cea-1ae2-434f-8cc3-e523de3b27f1.png</picture>
+<vendorCode>221013470</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/14/a6/6b/14a66bf6-5291-447e-b210-398c3d3cb02d.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2031,34 +2045,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221015561LINGLONG" available="true">
-<name>Шина R17 235/45 LING LONG GREEN-Max Winter UHP 97H XL зима 221015561</name>
-<url>https://www.autorus.ru/product/00-02695913?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019562</url>
-<price>8703</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221015561</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/74/b1/49/74b149bc-f2e0-433d-9227-b88a8e1b2e47.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221033194LINGLONG" available="true">
-<name>Шина R19 245/45 LING LONG Green-Max Winter Grip 2 102T XL шип 221033194</name>
-<url>https://www.autorus.ru/product/00-03443936?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784770</url>
-<price>13299</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033194</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/53/98/e1/5398e13d-0cec-42e0-abfb-01e4c39fb07c.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221013461LINGLONG" available="true">
 <name>Шина R18 255/45 LING LONG GREEN-Max Winter Ice I-15 SUV 99T зима 221013461</name>
 <url>https://www.autorus.ru/product/00-02695871?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019555</url>
@@ -2068,20 +2054,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221013461</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/a2/d0/7f/a2d07f2f-d1e1-4a73-bd03-0bd9e015c4c6.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221013470LINGLONG" available="true">
-<name>Шина R20 275/40 LING LONG GREEN-Max Winter Ice I-15 SUV 102T зима 221013470</name>
-<url>https://www.autorus.ru/product/00-02695887?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019559</url>
-<price>11439</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013470</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/14/a6/6b/14a66bf6-5291-447e-b210-398c3d3cb02d.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2110,6 +2082,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221030921</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/4a/28/28/4a282834-1f3f-46e7-bf68-dcdd1c707167.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221030924LINGLONG" available="true">
+<name>Шина R18 255/35 LING LONG Nord Master 94T XL зима 221030924</name>
+<url>https://www.autorus.ru/product/00-02770188?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019620</url>
+<price>8962</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221030924</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/87/74/c4/8774c43f-b2ed-4f81-8f76-87bbb604e97b.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2171,20 +2157,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033192LINGLONG" available="true">
-<name>Шина R19 245/40 LING LONG Green-Max Winter Grip 2 98T XL шип 221033192</name>
-<url>https://www.autorus.ru/product/00-03443926?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784768</url>
-<price>12430</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033192</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/b3/2c/0b/b32c0be8-f1b7-4c5e-9884-46e1ba910a2c.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221033162LINGLONG" available="true">
 <name>Шина R16 205/45 LING LONG Green-Max Winter Grip 2 87T XL шип 221033162</name>
 <url>https://www.autorus.ru/product/00-03757198?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142571</url>
@@ -2227,20 +2199,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221003603LINGLONG" available="true">
-<name>Шина R20 275/45 LING LONG Green-Max Winter Grip SUV 110T XL шип 221003603</name>
-<url>https://www.autorus.ru/product/00-02770077?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019637</url>
-<price>14080</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221003603</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/ba/ec/49/baec499d-0731-4def-993d-4ff9162e2523.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221013400LINGLONG" available="true">
 <name>Шина R19 225/55 LING LONG GREEN-Max Winter Ice I-15 SUV 99T зима 221013400</name>
 <url>https://www.autorus.ru/product/00-02544555?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=972009</url>
@@ -2255,15 +2213,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033170LINGLONG" available="true">
-<name>Шина R17 215/55 LING LONG Green-Max Winter Grip 2 98T XL шип 221033170</name>
-<url>https://www.autorus.ru/product/00-03757204?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142577</url>
-<price>9345</price>
+<offer id="221030914LINGLONG" available="true">
+<name>Шина R18 225/45 LING LONG Nord Master 95T XL зима 221030914</name>
+<url>https://www.autorus.ru/product/00-02770178?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019610</url>
+<price>7732</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033170</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/47/d4/44/47d444a2-bd34-4dc0-945b-419a3716a77b.png</picture>
+<vendorCode>221030914</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/41/07/39/410739e9-9600-47b9-b441-0c4a7ea70cfa.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2297,20 +2255,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221001516LINGLONG" available="true">
-<name>Шина R17 215/50 LING LONG GREEN-Max Winter UHP 95V XL зима 221001516</name>
-<url>https://www.autorus.ru/product/00-02770067?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019568</url>
-<price>6919</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221001516</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/de/76/f6/de76f667-6b04-44e1-934f-14cecd43f6a2.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221030923LINGLONG" available="true">
 <name>Шина R19 245/35 LING LONG Nord Master 93T XL зима 221030923</name>
 <url>https://www.autorus.ru/product/00-02770187?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019619</url>
@@ -2339,20 +2283,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033418LINGLONG" available="true">
-<name>Шина R16C 225/65 LING LONG GREEN-Max Winter Grip VAN 2 112/110R шип 221033418</name>
-<url>https://www.autorus.ru/product/00-03757239?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142613</url>
-<price>10348</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033418</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/4f/ca/38/4fca38c9-d0fd-48da-8714-a71e8c97fa98.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221007994LINGLONG" available="true">
 <name>Шина R16 215/55 LING LONG GREEN-Max Winter Ice I-15 97T XL зима 221007994</name>
 <url>https://www.autorus.ru/product/00-01552842?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906259</url>
@@ -2367,15 +2297,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033193LINGLONG" available="true">
-<name>Шина R20 245/40 LING LONG Green-Max Winter Grip 2 99T XL шип 221033193</name>
-<url>https://www.autorus.ru/product/00-03443931?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784769</url>
-<price>13356</price>
+<offer id="221033192LINGLONG" available="true">
+<name>Шина R19 245/40 LING LONG Green-Max Winter Grip 2 98T XL шип 221033192</name>
+<url>https://www.autorus.ru/product/00-03443926?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784768</url>
+<price>12430</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033193</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/a5/9f/17/a59f1726-c0dd-4ac3-9b2d-3603e8b967b1.png</picture>
+<vendorCode>221033192</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/b3/2c/0b/b32c0be8-f1b7-4c5e-9884-46e1ba910a2c.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2390,20 +2320,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221033199</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/85/d0/69/85d06981-02c0-4168-9439-b5bc8d4d2a36.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221033416LINGLONG" available="true">
-<name>Шина R15C 215/70 LING LONG GREEN-Max Winter Grip VAN 2 109/107R шип 221033416</name>
-<url>https://www.autorus.ru/product/00-03757238?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142612</url>
-<price>9165</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221033416</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/8f/a5/3e/8fa53ef5-42ea-40a7-87b8-02d24ab878d9.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2437,6 +2353,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221003603LINGLONG" available="true">
+<name>Шина R20 275/45 LING LONG Green-Max Winter Grip SUV 110T XL шип 221003603</name>
+<url>https://www.autorus.ru/product/00-02770077?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019637</url>
+<price>14080</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221003603</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/ba/ec/49/baec499d-0731-4def-993d-4ff9162e2523.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221004047LINGLONG" available="true">
 <name>Шина R13 155/80 LingLong GREEN-Max Winter HP 79T зима 221004047</name>
 <url>https://www.autorus.ru/product/00-01904410?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=827360</url>
@@ -2465,6 +2395,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221004361LINGLONG" available="true">
+<name>Шина R16C 185/75 LING LONG GREEN-Max Winter VAN 104/102R зима 221004361</name>
+<url>https://www.autorus.ru/product/00-02318246?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=926860</url>
+<price>6605</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221004361</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/c1/64/ad/c164ad81-1fd1-45e7-854d-60fa00026ef9.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221007985LINGLONG" available="true">
 <name>Шина R18 225/55 LING LONG GREEN-Max Winter Ice I-15 SUV 98T зима 221007985</name>
 <url>https://www.autorus.ru/product/00-01569063?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=973815</url>
@@ -2474,34 +2418,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221007985</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/a9/be/f5/a9bef5c2-e057-4842-be74-c56a76d7a00a.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221013398LINGLONG" available="true">
-<name>Шина R18 225/60 LING LONG GREEN-Max Winter Ice I-15 SUV 100T зима 221013398</name>
-<url>https://www.autorus.ru/product/00-02770085?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019574</url>
-<price>8173</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221013398</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/5b/ec/6f/5bec6ff8-8d90-4225-a6f6-f122b5ad4285.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221030914LINGLONG" available="true">
-<name>Шина R18 225/45 LING LONG Nord Master 95T XL зима 221030914</name>
-<url>https://www.autorus.ru/product/00-02770178?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019610</url>
-<price>7732</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221030914</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/41/07/39/410739e9-9600-47b9-b441-0c4a7ea70cfa.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2521,15 +2437,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033157LINGLONG" available="true">
-<name>Шина R15 185/65 LING LONG Green-Max Winter Grip 2 88T шип 221033157</name>
-<url>https://www.autorus.ru/product/00-03757192?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142566</url>
-<price>6112</price>
+<offer id="221033416LINGLONG" available="true">
+<name>Шина R15C 215/70 LING LONG GREEN-Max Winter Grip VAN 2 109/107R шип 221033416</name>
+<url>https://www.autorus.ru/product/00-03757238?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142612</url>
+<price>9165</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033157</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/21/0a/61/210a6149-f902-491a-b69d-dcaa767acd6e.png</picture>
+<vendorCode>221033416</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/8f/a5/3e/8fa53ef5-42ea-40a7-87b8-02d24ab878d9.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2591,20 +2507,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221002001LINGLONG" available="true">
-<name>Шина R18 235/45 LING LONG GREEN-Max Winter UHP 98V XL зима 221002001</name>
-<url>https://www.autorus.ru/product/00-02201455?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=906287</url>
-<price>7583</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221002001</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/51/82/17/51821730-9511-4a72-ad33-8fb5f1329d13.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221004043LINGLONG" available="true">
 <name>Шина R16 215/55 LING LONG GREEN-Max Winter HP 97H XL зима 221004043</name>
 <url>https://www.autorus.ru/product/00-02695459?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019540</url>
@@ -2642,20 +2544,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221030927</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/cd/e8/cb/cde8cbba-677a-41d0-a503-3cf2dde1b741.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221003583LINGLONG" available="true">
-<name>Шина R17 225/45 LING LONG GREEN-Max Winter Grip 94T XL шип 221003583</name>
-<url>https://www.autorus.ru/product/00-02770071?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019631</url>
-<price>7073</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221003583</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/b0/3b/b0/b03bb05f-0b69-4ced-9b60-7e6b4d90c084.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2703,15 +2591,15 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221033406LINGLONG" available="true">
-<name>Шина R14C 185 LING LONG GREEN-Max Winter Grip VAN 2 104N шип 221033406</name>
-<url>https://www.autorus.ru/product/00-03757229?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142603</url>
-<price>7381</price>
+<offer id="221033418LINGLONG" available="true">
+<name>Шина R16C 225/65 LING LONG GREEN-Max Winter Grip VAN 2 112/110R шип 221033418</name>
+<url>https://www.autorus.ru/product/00-03757239?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142613</url>
+<price>10348</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221033406</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/e0/cb/f9/e0cbf976-8a26-457d-a85e-4db79bebf314.jpeg</picture>
+<vendorCode>221033418</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/4f/ca/38/4fca38c9-d0fd-48da-8714-a71e8c97fa98.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2776,7 +2664,7 @@
 <offer id="221025622LINGLONG" available="true">
 <name>Шина R16 215/65 LING LONG Nord Master 102T зима 221025622</name>
 <url>https://www.autorus.ru/product/00-02090102?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=884596</url>
-<price>6490</price>
+<price>6491</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
@@ -2796,6 +2684,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221004038</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/8f/d4/a7/8fd4a780-7ae1-4d7d-aedd-288d123e87d6.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221003582LINGLONG" available="true">
+<name>Шина R13 155/70 LING LONG GREEN-Max Winter Grip 75T шип 221003582</name>
+<url>https://www.autorus.ru/product/00-02158151?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=898298</url>
+<price>4375</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221003582</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/31/9f/e7/319fe7cd-ba89-45d4-9064-e42b3a260f5a.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2857,6 +2759,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221013398LINGLONG" available="true">
+<name>Шина R18 225/60 LING LONG GREEN-Max Winter Ice I-15 SUV 100T зима 221013398</name>
+<url>https://www.autorus.ru/product/00-02770085?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019574</url>
+<price>8173</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221013398</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/5b/ec/6f/5bec6ff8-8d90-4225-a6f6-f122b5ad4285.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221030903LINGLONG" available="true">
 <name>Шина R16 205/55 LING LONG Nord Master 94T XL зима 221030903</name>
 <url>https://www.autorus.ru/product/00-02770167?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019599</url>
@@ -2871,15 +2787,29 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221030908LINGLONG" available="true">
-<name>Шина R17 215/55 LING LONG Nord Master 98T XL зима 221030908</name>
-<url>https://www.autorus.ru/product/00-02770172?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019604</url>
-<price>6497</price>
+<offer id="221033193LINGLONG" available="true">
+<name>Шина R20 245/40 LING LONG Green-Max Winter Grip 2 99T XL шип 221033193</name>
+<url>https://www.autorus.ru/product/00-03443931?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784769</url>
+<price>13356</price>
 <categoryId>105</categoryId>
 <currencyId>RUR</currencyId>
 <vendor>LINGLONG</vendor>
-<vendorCode>221030908</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/7c/04/03/7c040373-8fe9-408a-9a99-06d44049f5b8.jpeg</picture>
+<vendorCode>221033193</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/a5/9f/17/a59f1726-c0dd-4ac3-9b2d-3603e8b967b1.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221033406LINGLONG" available="true">
+<name>Шина R14C 185 LING LONG GREEN-Max Winter Grip VAN 2 104N шип 221033406</name>
+<url>https://www.autorus.ru/product/00-03757229?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142603</url>
+<price>7381</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033406</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/e0/cb/f9/e0cbf976-8a26-457d-a85e-4db79bebf314.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2894,20 +2824,6 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221036201</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/00/1c/06/001c06e9-2ed7-4ff1-9cad-b6a60f957e55.png</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
-<offer id="221004362LINGLONG" available="true">
-<name>Шина R16C 195/75 LING LONG GREEN-Max Winter VAN 107/105R зима 221004362</name>
-<url>https://www.autorus.ru/product/00-02089255?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=883846</url>
-<price>7619</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221004362</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/b8/e3/63/b8e36322-79ba-4bec-b9d9-53ffc7967c4e.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -2969,20 +2885,6 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
-<offer id="221030904LINGLONG" available="true">
-<name>Шина R14 185/65 LING LONG Nord Master 90T XL зима 221030904</name>
-<url>https://www.autorus.ru/product/00-02770168?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019600</url>
-<price>4410</price>
-<categoryId>105</categoryId>
-<currencyId>RUR</currencyId>
-<vendor>LINGLONG</vendor>
-<vendorCode>221030904</vendorCode>
-<picture>https://image-optimizer.autorus.ru/photos/b/2c/ab/22/2cab2277-133f-47c0-97e2-5dd2edb79019.jpeg</picture>
-<delivery-options>
-<option cost="299" days="0" />
-</delivery-options>
-<pickup>true</pickup>
-</offer>
 <offer id="221030906LINGLONG" available="true">
 <name>Шина R16 205/60 LING LONG Nord Master 96T XL зима 221030906</name>
 <url>https://www.autorus.ru/product/00-02770170?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019602</url>
@@ -3034,6 +2936,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221004050</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/1f/56/a1/1f56a1f7-b736-4a9f-b1d5-ae0be54234a1.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221003590LINGLONG" available="true">
+<name>Шина R15 185/55 LING LONG GREEN-Max Winter Grip 86T шип 221003590</name>
+<url>https://www.autorus.ru/product/00-02169174?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=899336</url>
+<price>4942</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221003590</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/1b/be/58/1bbe58c9-73b7-4d98-bfd8-c57631d0387d.jpeg</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
@@ -3193,6 +3109,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221030908LINGLONG" available="true">
+<name>Шина R17 215/55 LING LONG Nord Master 98T XL зима 221030908</name>
+<url>https://www.autorus.ru/product/00-02770172?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019604</url>
+<price>6497</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221030908</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/7c/04/03/7c040373-8fe9-408a-9a99-06d44049f5b8.jpeg</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221003588LINGLONG" available="true">
 <name>Шина R13 165/70 LING LONG GREEN-Max Winter Grip 79Q шип 221003588</name>
 <url>https://www.autorus.ru/product/00-02770073?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=1019633</url>
@@ -3207,6 +3137,20 @@
 </delivery-options>
 <pickup>true</pickup>
 </offer>
+<offer id="221033194LINGLONG" available="true">
+<name>Шина R19 245/45 LING LONG Green-Max Winter Grip 2 102T XL шип 221033194</name>
+<url>https://www.autorus.ru/product/00-03443936?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=2784770</url>
+<price>13299</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033194</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/53/98/e1/5398e13d-0cec-42e0-abfb-01e4c39fb07c.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
 <offer id="221033154LINGLONG" available="true">
 <name>Шина R14 175/65 LING LONG Green-Max Winter Grip 2 86T XL шип 221033154</name>
 <url>https://www.autorus.ru/product/00-03757190?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142564</url>
@@ -3216,6 +3160,20 @@
 <vendor>LINGLONG</vendor>
 <vendorCode>221033154</vendorCode>
 <picture>https://image-optimizer.autorus.ru/photos/b/2e/41/28/2e412808-27fa-44bf-91e1-8853232af3af.png</picture>
+<delivery-options>
+<option cost="299" days="0" />
+</delivery-options>
+<pickup>true</pickup>
+</offer>
+<offer id="221033157LINGLONG" available="true">
+<name>Шина R15 185/65 LING LONG Green-Max Winter Grip 2 88T шип 221033157</name>
+<url>https://www.autorus.ru/product/00-03757192?utm_source=LINGLONG&amp;utm_campaign=manufacturer&amp;utm_medium=referral&amp;utm_content=LINGLONG_shiny&amp;utm_term=3142566</url>
+<price>6112</price>
+<categoryId>105</categoryId>
+<currencyId>RUR</currencyId>
+<vendor>LINGLONG</vendor>
+<vendorCode>221033157</vendorCode>
+<picture>https://image-optimizer.autorus.ru/photos/b/21/0a/61/210a6149-f902-491a-b69d-dcaa767acd6e.png</picture>
 <delivery-options>
 <option cost="299" days="0" />
 </delivery-options>
